@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<hr style="border-top: 2px solid #444; margin: -1.5rem 0 1.5rem 0; background: none">
-
 My current **Python** projects are:
 
 - A **deep Q learning (reinforcement learning) network** using the DiskSim HDD simulator and a multilayer perceptron to learn a better disk scheduling algorithm with AI.<br><br>
