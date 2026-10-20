@@ -10,8 +10,7 @@ My current **Python** projects are:
 
 Feel free to connect:
 
-[![LinkedIn](in.png)](https://www.linkedin.com/in/josh-borthick "LinkedIn for Josh Borthick")
-
+<a href="https://www.linkedin.com/in/josh-borthick"><img src=in.png width="100" alt="LinkedIn for Josh Borthick" title="LinkedIn for Josh Borthick"></a>
 <!--
 **joshb019919/joshb019919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
